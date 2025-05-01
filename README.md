@@ -2,13 +2,13 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<!-- ###
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFwbXp5cHRhaTU4dG9ma3VnYjZqZHAxanp4NW9wMTduanpmZGR2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8VD4oBfyTLgeFleDF/giphy.gif"  />
 
+ -->
 
 
-
-<h2 align="left">About me</h2>
+<h2 align="left">🍀About me</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🍀I code with</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left">Get in touch</h2>
+<h2 align="left">🍀Get in touch</h2>
 
 
 
