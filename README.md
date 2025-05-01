@@ -12,11 +12,11 @@
 
 <p align="left">My name is Alya Arsita Nurjanah and I'm a web developer, from Surakarta,Central Java.</p>
 
-###
+
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning laravel framework</p>
 
-###
+
 
 <h2 align="left">🍀I code with:</h2>
 
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
+
 
 <h2 align="left">🍀Get in touch:</h2>
 
@@ -56,7 +56,7 @@
 ![image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 )
 
-
+ ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunfloe/sunfloe/output/pacman-contribution-graph-dark.svg">
