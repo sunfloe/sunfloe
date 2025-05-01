@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFwbXp5cHRhaTU4dG9ma3VnYjZqZHAxanp4NW9wMTduanpmZGR2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8VD4oBfyTLgeFleDF/giphy.gif"  />
-</div>
-
-###
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFwbXp5cHRhaTU4dG9ma3VnYjZqZHAxanp4NW9wMTduanpmZGR2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8VD4oBfyTLgeFleDF/giphy.gif"  />
+
+
+
 
 <h2 align="left">About me</h2>
 
@@ -24,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
@@ -72,3 +72,5 @@
 ###
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunfloe&hide_progress=true&theme=flag-india) -->
+
+</div>
