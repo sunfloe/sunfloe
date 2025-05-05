@@ -11,10 +11,7 @@
 <h2 align="left">About me:</h2>
 
 <p align="left">My name is Alya Arsita Nurjanah and I'm a web developer, from Surakarta,Central Java.</p>
-
-
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning laravel framework</p>
+<p align="left">📚 I'm currently learning laravel framework</p>
 
 
 
